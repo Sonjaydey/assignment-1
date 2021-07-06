@@ -67,6 +67,9 @@ height: 150px;
 width: 250px;
 text-align: center;
 }
+span{
+    color: orange;
+}
 .last{
     margin-top: 10%;
     margin-left: 5%;
